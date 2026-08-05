@@ -3,19 +3,19 @@ using namespace std;
 
 int main()
 {
-    int a = 10;
+    int marks = 35;
 
     // Executes only if the condition is true.
-    if(a < 5)
+    if (marks >= 40)
     {
-        cout << "a is less than 5" << endl;
+        cout << "Pass" << endl;
     }
 
     // Executes only if the condition is false.
     else
     {
-        cout << "a is not less than 5" << endl;
-    }
+        cout << "Fail" << endl;
+    }     
     
     return 0;
 }
