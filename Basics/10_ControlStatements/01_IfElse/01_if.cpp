@@ -3,11 +3,11 @@ using namespace std;
 
 int main()
 {
-    int a = 10;
-
-    if(a > 5)
+    int age = 20;
+    
+    if (age >= 18)
     {
-        cout << "a is greater than 5" << endl;
+        cout << "Eligible to vote" << endl;
     }
     // Executes only if the condition is true.
     
