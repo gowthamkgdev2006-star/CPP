@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// A void function performs a task but does not return a value.
 int add(int a, int b) // a = 5, b = 10
 {
     int sum = a + b; // sum = 5 + 10 = 15
