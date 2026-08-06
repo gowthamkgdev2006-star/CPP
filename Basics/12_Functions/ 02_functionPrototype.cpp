@@ -12,6 +12,8 @@ int main()
     return 0;
 }
 
+// Function Definition
+// Defines what the function does when it is called.
 void greet()
 {
     cout << "Hello World" << endl;
