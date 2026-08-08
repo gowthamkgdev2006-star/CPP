@@ -24,4 +24,6 @@ int main()
     cout <<"Element at [1][0][2]: " << arr[1][0][2] << endl;
     cout <<"Element at [1][1][0]: " << arr[1][1][0] << endl;
     cout <<"Element at [1][1][1]: " << arr[1][1][1] << endl;
+
+    return 0;
 }
