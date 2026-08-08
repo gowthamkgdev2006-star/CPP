@@ -8,7 +8,7 @@ int main()
         {1, 2, 3},
         {4, 5, 6}
     };
-     // Traversal: visiting each element one by one
+    // Traversal: visiting each element one by one
     for(int i = 0; i < 2; i++)
     {
         for(int j = 0; j < 3 ; j++)
